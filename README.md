@@ -1,2 +1,2 @@
 # news-paper
-this is my project in html 
+this is my first project in html 
